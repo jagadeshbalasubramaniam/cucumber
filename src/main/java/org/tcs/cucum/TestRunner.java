@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src\\main\\java\\org\\tcs\\cucum\\demoqa.feature", glue = {
+@CucumberOptions(features = "src\\main\\java\\org\\tcs\\cucum\\demoqa1.feature", glue = {
 		"org.tcs.cucum" })
 
 public class TestRunner {
