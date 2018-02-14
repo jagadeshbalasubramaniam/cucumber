@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+9310feea0d2c4cbeea8fbc40dedc4ae55ec96781 refs/heads/develop
+e0cf41b9f72c18e3a36d5b263cde4efe2027811d refs/heads/master
+473de65017143072af4e90b96a43ad353b5a76ff refs/original/refs/heads/develop
+473de65017143072af4e90b96a43ad353b5a76ff refs/original/refs/remotes/origin/develop
+7045166e24df82d83817074a1b2d98ef739209fa refs/original/refs/tags/v0.2.0
+1511c7527b3993308076c82be5e47cae0bfd3665 refs/original/refs/tags/v0.2.1
+6c2acd73012be1495c4a7c167256744559870500 refs/remotes/origin/HEAD
+6c2acd73012be1495c4a7c167256744559870500 refs/remotes/origin/develop
+18e4cdfe85b6544eb6cd433d1a455b8a15451304 refs/tags/tutorial_2016_06_lausanne
+^c5ad6d707875b06256307a820bed29cd30345a4a
+811f5b6ab3c71989baf4386356ad29e9c54d6c93 refs/tags/tutorial_2016_07_trieste
+913112e0852eaaa6413106a74f9d2e05bacb1573 refs/tags/v0.2.0
+9060e9eed51fb9ddd9bf866ea59745de00180352 refs/tags/v0.2.1
+b24cab17e7d22a07cef611795c9d5e3f43933b6d refs/tags/v0.4.0
+7a08211dab41ed38e4c55c795dcee083cf590469 refs/tags/v0.4.1
+323c6afa962eb617251e4ce7940661df33a8b650 refs/tags/v0.5.0
+dadd07c7e545382c35e4653a8034ec00b08ed5d2 refs/tags/v0.6.0
+fb105a5c0ebbb8f99a137f02885ef8d495210c25 refs/tags/v0.7.0
